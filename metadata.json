@@ -1,0 +1,6 @@
+{
+  "name": "청주대학교 (CJU)",
+  "description": "청주대학교의 입학안내, 학사정보, 연구활동, 캠퍼스라이프, 그리고 대학소개 정보까지 한눈에 볼 수 있는 공식 모던 웹 포털 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
